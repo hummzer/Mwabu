@@ -24,7 +24,7 @@ cd Mwabu
 pip install virtualenv
 
 # Then we create our virtual environment
-virtualenv envname
+python -m venv envname
 
 ```
 
